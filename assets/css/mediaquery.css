@@ -1,0 +1,48 @@
+@media only screen and (max-width: 1070px)
+{
+	.logoDesc
+	{
+		display: none;
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	.imgLogo
+	{
+		width:90px;
+		top:10px;
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	.descriptionOnSlide
+	{
+		height: 160px;
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	.textControl{
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 600px){
+	.socialMedia{
+		width: 50%;
+border-radius: 5px;
+position: absolute;
+bottom: 73px;
+left: calc(50% - 100px);
+	}
+}
+@media only screen and (max-width: 600px){
+	.socialMedia ul{
+		height: 50px;
+	}
+}
+@media only screen and (max-width: 600px){
+	.socialMedia ul li a{
+		font-size: 25px;
+		padding: 0px 15px;
+	}
+}
