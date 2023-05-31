@@ -4,6 +4,12 @@
 <section class="event_inner">
     <div class="event_banner">
         <img src="assets/image/about.jpg" alt="">
+        <div class="bg"></div>
+        <div class="event_text">
+            <h3>ITF HQ Newsletter February 2023</h3>
+            <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+        </div>
+        <div class="bg"></div>
     </div>
     <div class="container">
         <div class="rows_wrapper">
@@ -29,58 +35,65 @@
 
             <div class="cols-2">
                 <a href="apply_form.php">
-                <p class="mb-4 text-center primary_btn">Apply Now</p>
+                    <p class="mb-5 text-center primary_btn">Apply Now</p>
                 </a>
-            
-                   
-                
-                <h2>Latest Posts</h2>
+                <h2 class="secondary_heading">Latest Posts</h2>
                 <div class="post_wrapper">
-                    <div class="latest_wrapper">
-                        <div class="image">
-                            <img src="assets/image/about.jpg" alt="">
+                    <a href="event_inner.php">
+                        <div class="latest_wrapper">
+                            <div class="image">
+                                <img src="assets/image/about.jpg" alt="">
+                            </div>
+                            <div class="post_text">
+                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                            </div>
                         </div>
-                        <div class="post_text">
-                            <h4>ITF HQ Newsletter February 2023</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                    </a>
+                    <a href="event_inner.php">
+                        <div class="latest_wrapper">
+                            <div class="image">
+                                <img src="assets/image/about.jpg" alt="">
+                            </div>
+                            <div class="post_text">
+                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="latest_wrapper">
-                        <div class="image">
-                            <img src="assets/image/about.jpg" alt="">
+                    </a>
+                    <a href="event_inner.php">
+                        <div class="latest_wrapper">
+                            <div class="image">
+                                <img src="assets/image/about.jpg" alt="">
+                            </div>
+                            <div class="post_text">
+                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                            </div>
                         </div>
-                        <div class="post_text">
-                            <h4>ITF HQ Newsletter February 2023</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                    </a>
+                    <a href="event_inner.php">
+                        <div class="latest_wrapper">
+                            <div class="image">
+                                <img src="assets/image/about.jpg" alt="">
+                            </div>
+                            <div class="post_text">
+                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="latest_wrapper">
-                        <div class="image">
-                            <img src="assets/image/about.jpg" alt="">
+                    </a>
+                    <a href="event_inner.php">
+                        <div class="latest_wrapper">
+                            <div class="image">
+                                <img src="assets/image/about.jpg" alt="">
+                            </div>
+                            <div class="post_text">
+                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
+                            </div>
                         </div>
-                        <div class="post_text">
-                            <h4>ITF HQ Newsletter February 2023</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
-                        </div>
-                    </div>
-                    <div class="latest_wrapper">
-                        <div class="image">
-                            <img src="assets/image/about.jpg" alt="">
-                        </div>
-                        <div class="post_text">
-                            <h4>ITF HQ Newsletter February 2023</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
-                        </div>
-                    </div>
-                    <div class="latest_wrapper">
-                        <div class="image">
-                            <img src="assets/image/about.jpg" alt="">
-                        </div>
-                        <div class="post_text">
-                            <h4>ITF HQ Newsletter February 2023</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
-                        </div>
-                    </div>
+                    </a>
                 </div>
             </div>
         </div>

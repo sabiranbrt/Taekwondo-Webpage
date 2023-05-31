@@ -9,8 +9,8 @@
             <div class="nav_menu">
                 <ul class="menu_list" role="list">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li class="dropdown_menu">Team
+                    <li><a href="about.php">About</a></li>
+                    <li class="dropdown_menu"><a href="#">Team</a>
                         <ul class="sub_dropdown" role="list">
                             <li class="pad"><a href="central_committee.php">Central Committee</a></li>
                             <li class="pad"><a href="province.php">Province Member</a></li>
@@ -20,12 +20,12 @@
                     </li>
                     <li><a href="event_archive.php">Events</a></li>
                     <li><a href="#">Apply Memebership</a></li>
-                    <li><a href="#">News / Notice</a></li>
-                    <li class="dropdown_menu">Resources
+                    <li><a href="news_archive.php">News</a></li>
+                    <li><a href="notice_archive.php">Notice</a></li>
+                    <li class="dropdown_menu"><a href="#">Resources</a>
                         <ul class="sub_dropdown" role="list">
                             <li class="pad"><a href="downloads.php">Downloads</a></li>
                             <li class="pad"><a href="syllabus.php">Syllabus</a></li>
-
                         </ul>
                     </li>
                     <li><a href="contact.php">Contact</a></li>

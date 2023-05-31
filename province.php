@@ -39,9 +39,6 @@
             <div class="pd_name">
                 <h2>Province Name: One</h2>
             </div>
-            <div class="pd_name">
-                <h2>District Name: Morang</h2>
-            </div>
         </div>
 
         <div class="person_detail">
@@ -51,7 +48,7 @@
                     <div class="text_detail ht">
                         <h4>Jhon Wick</h4>
                         <p>Chairman</p>
-                        
+
                         <ul role="list">
                             <li>Mobile:<span>+977-9842143859</span></li>
                             <li>Email:<span>support@gmail.com</span></li>
@@ -67,7 +64,7 @@
                     <div class="text_detail ht">
                         <h4>Jhon Wick</h4>
                         <p>Chairman</p>
-                        
+
                         <ul role="list">
                             <li>Mobile:<span>+977-9842143859</span></li>
                             <li>Email:<span>support@gmail.com</span></li>
@@ -83,7 +80,7 @@
                     <div class="text_detail ht">
                         <h4>Jhon Wick</h4>
                         <p>Chairman</p>
-                        
+
                         <ul role="list">
                             <li>Mobile:<span>+977-9842143859</span></li>
                             <li>Email:<span>support@gmail.com</span></li>
@@ -99,7 +96,7 @@
                     <div class="text_detail ht">
                         <h4>Jhon Wick</h4>
                         <p>Chairman</p>
-                        
+
                         <ul role="list">
                             <li>Mobile:<span>+977-9842143859</span></li>
                             <li>Email:<span>support@gmail.com</span></li>
@@ -115,7 +112,7 @@
                     <div class="text_detail ht">
                         <h4>Jhon Wick</h4>
                         <p>Chairman</p>
-                     
+
                         <ul role="list">
                             <li>Mobile:<span>+977-9842143859</span></li>
                             <li>Email:<span>support@gmail.com</span></li>
@@ -131,7 +128,7 @@
                     <div class="text_detail ht">
                         <h4>Jhon Wick</h4>
                         <p>Chairman</p>
-                        <p class="pro">Province one</p>
+
                         <ul role="list">
                             <li>Mobile:<span>+977-9842143859</span></li>
                             <li>Email:<span>support@gmail.com</span></li>

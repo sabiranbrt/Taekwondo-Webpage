@@ -9,12 +9,12 @@
                     <div class="image">
                         <img src="assets/image/slide1.jpg" alt="">
                     </div>
-                    <div class="bg-color"></div>
+
                     <div class="slide_text">
-                        <h2>The Gift of Happiness</h2>
+                        <h1>The Gift of Happiness</h1>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo dignissimos repellat voluptas laborum amet non repudiandae cum, error perferendis odit nemo iure, necessitatibus aspernatur corporis deserunt officia facilis culpa quas!</p>
                         <div class="btns">
-                            <a class="primary_btn" href="#">Register</a>
+                            <a class="primary_btn" href="apply_form.php">Register</a>
                         </div>
                     </div>
                 </div>
@@ -22,12 +22,12 @@
                     <div class="image">
                         <img src="assets/image/slide2.jpg" alt="">
                     </div>
-                    <div class="bg-color"></div>
+
                     <div class="slide_text">
-                        <h2>The Gift of Happiness</h2>
+                        <h1>The Gift of Happiness</h1>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo dignissimos repellat voluptas laborum amet non repudiandae cum, error perferendis odit nemo iure, necessitatibus aspernatur corporis deserunt officia facilis culpa quas!</p>
                         <div class="btns">
-                            <a class="primary_btn" href="#">Register</a>
+                            <a class="primary_btn" href="apply_form.php">Register</a>
                         </div>
                     </div>
                 </div>
@@ -35,12 +35,12 @@
                     <div class="image">
                         <img src="assets/image/slide3.jpg" alt="">
                     </div>
-                    <div class="bg-color"></div>
+
                     <div class="slide_text">
-                        <h2>The Gift of Happiness</h2>
+                        <h1>The Gift of Happiness</h1>
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo dignissimos repellat voluptas laborum amet non repudiandae cum, error perferendis odit nemo iure, necessitatibus aspernatur corporis deserunt officia facilis culpa quas!</p>
                         <div class="btns">
-                            <a class="primary_btn" href="#">Register</a>
+                            <a class="primary_btn" href="apply_form.php">Register</a>
                         </div>
                     </div>
                 </div>
@@ -63,33 +63,81 @@
                 <img src="assets/image/about.jpg" alt="">
             </div>
             <div class="about_content">
-
                 <h2>PROFESIONAL BOXING CHAMPIONSHIP</h2>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto molestias error, odit modi est esse eligendi ratione harum, ducimus delectus ipsum voluptatem nobis nisi laudantium soluta officiis voluptatum magnam fugiat dicta. Blanditiis expedita sit aliquid, fugiat tempore itaque magni cumque, placeat vitae, assumenda minus optio eos velit. Praesentium, exercitationem omnis.</p>
+
+                <div class="btns">
+                    <a class="primary_btn m-0" href="about.php">Read More</a>
+                </div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- <section class="about_register bg_color">
+<section class="news">
     <div class="container">
-        <h5 class="secondary_heading">Register</h5>
-        <div class="about_detail">
-            <div class="about_content">
-
-                <h2>November 9th to 12th 2023, Birmingham, England</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto molestias error, odit modi est esse eligendi ratione harum, ducimus delectus ipsum voluptatem nobis nisi laudantium soluta officiis voluptatum magnam fugiat dicta. Blanditiis expedita sit aliquid, fugiat tempore itaque magni cumque, placeat vitae, assumenda minus optio eos velit. Praesentium, exercitationem omnis.</p>
-                <div class="btns m-0 mt-3">
-                    <a class="primary_btn" href="#">Register</a>
+        <div class="head_flex">
+            <h5 class="secondary_heading m-0">News</h5>
+            <a class="event_btn" href="news_archive.php">More</a>
+        </div>
+        <div class="news_list">
+            <div class="event_list">
+                <div class="event_wrapper">
+                    <div class="image">
+                        <img src="assets/image/about.jpg" alt="">
+                    </div>
+                    <div class="event_text">
+                        <a href="news_inner.php">
+                            <h3>ITF HQ Newsletter February 2023</h3>
+                        </a>
+                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
+                    </div>
+                    <a class="secondary_btn" href="news_inner.php">Read More</a>
                 </div>
-            </div>
-
-            <div class="image">
-                <img src="assets/image/about.jpg" alt="">
+                <div class="event_wrapper">
+                    <div class="image">
+                        <img src="assets/image/about.jpg" alt="">
+                    </div>
+                    <div class="event_text">
+                        <a href="news_inner.php">
+                            <h3>ITF HQ Newsletter February 2023</h3>
+                        </a>
+                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
+                    </div>
+                    <a class="secondary_btn" href="news_inner.php">Read More</a>
+                </div>
+                <div class="event_wrapper">
+                    <div class="image">
+                        <img src="assets/image/about.jpg" alt="">
+                    </div>
+                    <div class="event_text">
+                        <a href="news_inner.php">
+                            <h3>ITF HQ Newsletter February 2023</h3>
+                        </a>
+                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
+                    </div>
+                    <a class="secondary_btn" href="news_inner.php">Read More</a>
+                </div>
+                <div class="event_wrapper">
+                    <div class="image">
+                        <img src="assets/image/about.jpg" alt="">
+                    </div>
+                    <div class="event_text">
+                        <a href="news_inner.php">
+                            <h3>ITF HQ Newsletter February 2023</h3>
+                        </a>
+                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
+                    </div>
+                    <a class="secondary_btn" href="news_inner.php">Read More</a>
+                </div>
             </div>
         </div>
     </div>
-</section> -->
+</section>
 
 <section class="event_notice">
     <div class="container">
@@ -105,7 +153,7 @@
                             <img src="assets/image/about.jpg" alt="">
                         </div>
                         <div class="event_text">
-                            <a href="event_innerpage.php">
+                            <a href="event_inner.php">
                                 <h3>ITF HQ Newsletter February 2023</h3>
                             </a>
                             <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
@@ -118,7 +166,7 @@
                             <img src="assets/image/about.jpg" alt="">
                         </div>
                         <div class="event_text">
-                            <a href="event_innerpage.php">
+                            <a href="event_inner.php">
                                 <h3>ITF HQ Newsletter February 2023</h3>
                             </a>
                             <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
@@ -130,46 +178,47 @@
             </div>
             <div class="notice">
                 <div class="head_flex">
-                    <h5 class="secondary_heading m-0">News/Notice</h5>
-                    <a class="event_btn" href="event_archive.php">More</a>
+                    <h5 class="secondary_heading m-0">Notice</h5>
+                    <a class="event_btn" href="notice_archive.php">More</a>
                 </div>
 
                 <div class="notice_list">
-                    <a href="event_innerpage.php">
+                    <a href="notice_inner.php">
                         <div class="notice_wrapper">
                             <div class="image">
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="notice_text">
                                 <h4>ITF HQ Newsletter February 2023</h4>
+                                <h5>March 20, 2022</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
                     </a>
-                    <a href="event_innerpage.php">
+                    <a href="notice_inner.php">
                         <div class="notice_wrapper">
                             <div class="image">
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="notice_text">
                                 <h4>ITF HQ Newsletter February 2023</h4>
+                                <h5>March 20, 2022</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
                     </a>
-                    <a href="event_innerpage.php">
+                    <a href="event_inner.php">
                         <div class="notice_wrapper">
                             <div class="image">
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="notice_text">
                                 <h4>ITF HQ Newsletter February 2023</h4>
+                                <h5>March 20, 2022</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
                     </a>
-
-                    
                 </div>
             </div>
         </div>
@@ -194,7 +243,7 @@
     </div>
 </section>
 
-<section class="gallery">
+<section class="gallery" id="gallery">
     <div class="container">
         <h5 class="secondary_heading">Gallery</h5>
         <div class="gallery_list">
@@ -243,7 +292,7 @@
                     <img src="assets/image/gallery1.jpg" alt="">
                     <div class="views">
                         <h4>Boxing</h4>
-                        <a href="video_gallery.php">More Video</a>
+                        <a href="video_gallery.php">More Photo</a>
                     </div>
                     <div class="bg hide"></div>
                 </div>
@@ -280,6 +329,99 @@
             </div>
         </div>
     </div>
+</section>
+
+<section class="video">
+    <div class="container">
+        <h2 class="secondary_heading">Video Gallery</h2>
+
+        <div class="video_container">
+            <div class="rows">
+                <div class="cols-1">
+                    <div class="image">
+                        <img src="assets/image/slide1.jpg" alt="">
+                        <div class="linear_gradient"></div>
+                        <div class="link_wrapper">
+                            <div class="video-link pulse">
+                                <i class="fa-solid fa-play"></i>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video_text_head">
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores et eum quae facere vel impedit?</h2>
+                        <p>March 2022</p>
+                    </div>
+                </div>
+                <div class="cols-2">
+                    <div class="video_wrapper">
+                        <div class="image">
+                            <img src="assets/image/slide2.jpg" alt="">
+                            <div class="link_wrapper">
+                                <div class="video-link pulse">
+                                    <i class="fa-solid fa-play"></i>
+                                </div>
+                            </div>
+                            <div class="bg"></div>
+                        </div>
+                        <div class="video_text">
+                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores et eum quae facere vel impedit?</h3>
+                            <p>March 2022</p>
+                        </div>
+                    </div>
+                    <div class="video_wrapper">
+                        <div class="image">
+                            <img src="assets/image/slide2.jpg" alt="">
+                            <div class="link_wrapper">
+                                <div class="video-link pulse">
+                                    <i class="fa-solid fa-play"></i>
+                                </div>
+                            </div>
+                            <div class="bg"></div>
+                        </div>
+                        <div class="video_text">
+                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores et eum quae facere vel impedit?</h3>
+                            <p>March 2022</p>
+                        </div>
+                    </div>
+                    <div class="video_wrapper">
+                        <div class="image">
+                            <img src="assets/image/slide2.jpg" alt="">
+                            <div class="link_wrapper">
+                                <div class="video-link pulse">
+                                    <i class="fa-solid fa-play"></i>
+                                </div>
+                            </div>
+                            <div class="bg"></div>
+                        </div>
+                        <div class="video_text">
+                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores et eum quae facere vel impedit?</h3>
+                            <p>March 2022</p>
+                        </div>
+                    </div>
+                    <div class="video_wrapper">
+                        <div class="image">
+                            <img src="assets/image/slide2.jpg" alt="">
+                            <div class="link_wrapper">
+                                <div class="video-link pulse">
+                                    <i class="fa-solid fa-play"></i>
+                                </div>
+                            </div>
+                            <div class="bg"></div>
+                        </div>
+                        <div class="video_text">
+                            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores et eum quae facere vel impedit?</h3>
+                            <p>March 2022</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="open_video">
+            <span class="video_close">X</span>
+            <iframe width="885" height="498" src="https://www.youtube.com/embed/lTieq1DrEec?list=RDlTieq1DrEec" title="Post Malone - I Like You (Lyrics) ft. Doja Cat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+
 </section>
 
 

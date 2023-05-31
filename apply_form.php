@@ -9,6 +9,11 @@
             <h3>Registration Form for Seminar and Tournament</h3>
         </div>
         <div class="form">
+            <div class="dropzone_items">
+                <form action="/file-upload" class="dropzone zone" id="my-great-dropzone-1">
+            </div>
+            </form>
+
             <form class="row" action="">
                 <div class="col-md-6">
                     <label for="">Full Name:</label>
@@ -31,13 +36,13 @@
                     <input type="text" name="" id="">
                 </div>
                 <label for="">Tick The Below:</label>
-                <div class="col-md-12 d-flex">
-                    <div class="col-md-6 d-flex align-items-center" style="white-space: nowrap;">
-                        <input type="checkbox" name="" id="" style="width: fit-content;">
+                <div class="col-md-12 d-flex flex-column">
+                    <div class="col-md-3 d-flex align-items-center" style="white-space: nowrap;">
+                        <input type="radio" name="" id="" style="width: fit-content;">
                         <label for="">(International Seminar)</label>
                     </div>
-                    <div class="col-md-6 d-flex align-items-center" style="white-space: nowrap;">
-                        <input type="checkbox" name="" id="" style="width: fit-content;">
+                    <div class="col-md-3 d-flex align-items-center" style="white-space: nowrap;">
+                        <input type="radio" name="" id="" style="width: fit-content;">
                         <label for="">(Taekwon-Do Tournament)</label>
                     </div>
                 </div>
@@ -92,21 +97,24 @@
                     </div>
                 </div>
 
-                    <div class="col-md-8">
+                <div class="col-md-8">
                     <div class="contact_form">
                         <p>Phone no:+1616463262</p>
                         <p>Email:support@gmail.com</p>
                     </div>
-                    </div>
+                </div>
 
-                    <div class="col-md-4">
-                        <label for="">Date:</label>
-                        <input type="date" name="" id="">
-                    </div>
-                
+                <div class="col-md-4">
+                    <label for="">Date:</label>
+                    <input type="date" name="" id="">
+                </div>
+
+                <div class="btn">
+                    <button class="primary_btn">Submit</button>
+                </div>
 
                 <div class="deadline text-center">
-                    <p>The deadline of this registration is 2080/12/24</p>
+                    <p><span>Note:</span> The deadline of this registration is 2080/12/24</p>
                 </div>
         </div>
         </form>

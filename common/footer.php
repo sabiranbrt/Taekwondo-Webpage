@@ -2,24 +2,26 @@
      <div class="container">
          <div class="footer_wrapper">
              <div class="logo">
-                 <img src="assets/image/taekwondo-logo.png" alt="">
+                 <img src="assets/image/taekowondo-logo.jpg" alt="">
              </div>
              <div class="footer_list">
-             <ul role="list">
-                <li><a href="#">About</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#">Contact</a></li>
-             </ul>
-             <p class="text-start m-0" >&copy CodeLogic All right reserved.</p>
+                 <ul role="list">
+                     <li><a href="about.php">About</a></li>
+                     <li><a href="event_archive.php">Events</a></li>
+                     <li><a href="notice_archive.php">Notice</a></li>
+                     <li><a href="news_archive.php">News</a></li>
+                     <li><a href="contact.php">Contact</a></li>
+                 </ul>
+                 <p class="text-start m-0">&copy CodeLogic All right reserved.</p>
              </div>
-            
+
              <div class="social_sites">
-                <div class="sites">
-                <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="#"><i class="fa-brands fa-pinterest"></i></a>
-                <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                </div>
-                <p class="m-0">Support@gmail.com</p>
+                 <div class="sites">
+                     <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                     <a href="#"><i class="fa-brands fa-pinterest"></i></a>
+                     <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                 </div>
+                 <p class="m-0">Support@gmail.com</p>
              </div>
          </div>
      </div>
@@ -45,6 +47,8 @@
  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
  </script>
 
+ <!-- dropzone -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.9.3/dropzone.js" integrity="sha512-9e9rr82F9BPzG81+6UrwWLFj8ZLf59jnuIA/tIf8dEGoQVu7l5qvr02G/BiAabsFOYrIUTMslVN+iDYuszftVQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
  <!-- SELECT PLUGIN -->
  <!-- <script type="text/javascript" src="assets/select/dist/js/select2.min.js"></script> -->
