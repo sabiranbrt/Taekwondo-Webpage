@@ -42,10 +42,27 @@
                 <li><a href="dojang_innerpage.php">Dhara Dojang</a></li>
                 <li><a href="dojang_innerpage.php">Dhara Dojang</a></li>
                 <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
+                <li><a href="dojang_innerpage.php">Buratibanj Dojang</a></li>
             </ul>
         </div>
 
-        <div class="dojang_table">
+        <!-- <div class="dojang_table">
             <table>
                 <thead>
                     <tr>
@@ -106,7 +123,7 @@
                 </tdody>
 
             </table>
-        </div>
+        </div> -->
     </div>
 </section>
 

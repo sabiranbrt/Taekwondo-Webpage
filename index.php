@@ -88,9 +88,9 @@
                     </div>
                     <div class="event_text">
                         <a href="news_inner.php">
-                            <h3>ITF HQ Newsletter February 2023</h3>
+                            <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -101,9 +101,9 @@
                     </div>
                     <div class="event_text">
                         <a href="news_inner.php">
-                            <h3>ITF HQ Newsletter February 2023</h3>
+                            <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -114,9 +114,9 @@
                     </div>
                     <div class="event_text">
                         <a href="news_inner.php">
-                            <h3>ITF HQ Newsletter February 2023</h3>
+                            <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -127,9 +127,9 @@
                     </div>
                     <div class="event_text">
                         <a href="news_inner.php">
-                            <h3>ITF HQ Newsletter February 2023</h3>
+                            <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -154,9 +154,9 @@
                         </div>
                         <div class="event_text">
                             <a href="event_inner.php">
-                                <h3>ITF HQ Newsletter February 2023</h3>
+                                <h3>ITF HQ Newsletter </h3>
                             </a>
-                            <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                            <h5>March 23, 2023</h5>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                         </div>
                         <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -167,9 +167,9 @@
                         </div>
                         <div class="event_text">
                             <a href="event_inner.php">
-                                <h3>ITF HQ Newsletter February 2023</h3>
+                                <h3>ITF HQ Newsletter </h3>
                             </a>
-                            <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                            <h5>March 23, 2023</h5>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                         </div>
                         <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -189,7 +189,7 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="notice_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
                                 <h5>March 20, 2022</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
@@ -201,7 +201,7 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="notice_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
                                 <h5>March 20, 2022</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
@@ -213,7 +213,7 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="notice_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
                                 <h5>March 20, 2022</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
@@ -235,9 +235,8 @@
             <h2>Join ITF HQ Now</h2>
             <p>Join as an Individual or Group all the information you need on the links below</p>
             <div class="member_btns">
-                <a class="membership_btn" href="#">Apply For Group Membership</a>
-                <a class="membership_btn" href="#">MemberShip Information</a>
-                <a class="membership_btn" href="#">Apply For Individual Membership</a>
+                <a class="membership_btn" href="#">Apply Membership</a>
+
             </div>
         </div>
     </div>
@@ -333,8 +332,10 @@
 
 <section class="video">
     <div class="container">
-        <h2 class="secondary_heading">Video Gallery</h2>
-
+        <div class="head_flex">
+            <h5 class="secondary_heading m-0">Video Gallery</h5>
+            <a class="event_btn" href="video_archive.php">More</a>
+        </div>
         <div class="video_container">
             <div class="rows">
                 <div class="cols-1">
@@ -423,6 +424,5 @@
     </div>
 
 </section>
-
 
 <?php include 'common/footer.php'; ?>

@@ -30,12 +30,7 @@
                     </li>
                     <li><a href="contact.php">Contact</a></li>
                 </ul>
-                <div class="search_btn">
-                    <input class="search_box" type="text" name="" id="">
-                    <div class="glass">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                    </div>
-                </div>
+
                 <div class="hamburger_menu">
                     <span></span>
                 </div>

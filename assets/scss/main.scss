@@ -28,7 +28,6 @@
 
 // Utility Classes
 
-
 .dropzone {
   height: 100px;
   background: #f2f2f2;
@@ -106,6 +105,30 @@
   @include max(768px) {
     grid-template-columns: 1fr;
   }
+}
+
+.display_grid1 {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+
+  @include max(768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.basis20 {
+  flex-basis: 20%;
+}
+
+.align-items-normal {
+  align-items: initial !important;
+  gap: 20px;
+}
+
+.basis80 {
+  flex-basis: 80%;
+  text-align: start !important;
 }
 
 .remove_flex {
@@ -280,8 +303,11 @@
 
 // navigation
 section.navigation {
-  background: rgb(0, 136, 204);
   background: $blue-color;
+  // position: fixed;
+  // top: 0;
+  // width: 100%;
+  // z-index: 9999999;
 
   .nav_nav {
     display: flex;
@@ -771,7 +797,6 @@ section.about_register {
   }
 }
 
-
 // gallery
 .gallery {
   padding-block: 10rem;
@@ -866,8 +891,6 @@ section.about_register {
           }
         }
       }
-
-
     }
 
     .gallery_wrapper:hover .views {
@@ -1298,7 +1321,7 @@ section.event_inner {
 
       ul {
         li {
-          font-size: 1.25rem;
+          font-size: 1.6rem;
 
           span {
             opacity: 0.5;
@@ -1598,9 +1621,13 @@ section.download {
     h4 {
       font-size: 1.75rem;
       font-weight: 500;
+      margin-bottom: 2rem;
     }
 
     ul {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+
       li {
         color: $blue-color;
         font-size: 1.6rem;
@@ -1806,6 +1833,11 @@ section.download {
 
     h3 {
       font-size: 2.25rem;
+      font-weight: 400;
+
+      span {
+        opacity: 0.5;
+      }
     }
   }
 

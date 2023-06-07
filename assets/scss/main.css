@@ -182,6 +182,31 @@ a:not(.button):focus {
   }
 }
 
+.display_grid1 {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+@media (max-width: 768px) {
+  .display_grid1 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.basis20 {
+  flex-basis: 20%;
+}
+
+.align-items-normal {
+  align-items: initial !important;
+  gap: 20px;
+}
+
+.basis80 {
+  flex-basis: 80%;
+  text-align: start !important;
+}
+
 .remove_flex {
   display: block !important;
 }
@@ -335,7 +360,6 @@ a:not(.button):focus {
 }
 
 section.navigation {
-  background: rgb(0, 136, 204);
   background: #243783;
 }
 section.navigation .nav_nav {
@@ -1440,6 +1464,10 @@ section.download .download_wrapper .download_detail .download_btn a:hover {
   font-size: 1.75rem;
   font-weight: 500;
 }
+.central_committee .dojang_list ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
 .central_committee .dojang_list ul li {
   color: #243783;
   font-size: 1.6rem;
@@ -1605,6 +1633,10 @@ section.download .download_wrapper .download_detail .download_btn a:hover {
 }
 .central_committee .dojang_detail h3 {
   font-size: 2.25rem;
+  font-weight: 400;
+}
+.central_committee .dojang_detail h3 span {
+  opacity: 0.5;
 }
 .central_committee .table_trainee {
   margin-top: 1em;
