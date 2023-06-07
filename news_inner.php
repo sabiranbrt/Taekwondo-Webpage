@@ -9,9 +9,9 @@
         <div class="rows_wrapper">
             <div class="flex_basis">
 
-                <div class="event_text text-center">
-                    <h3>ITF HQ Newsletter</h3>
-                    <h5>march 2022</h5>
+                <div class="event_text">
+                    <h3 class="m-0 mb-2">ITF HQ Newsletter</h3>
+                    <h5>March 23, 2022 | Jhon Wick</h5>
                 </div>
 
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam omnis quibusdam ipsum, ad, harum unde in, inventore itaque magnam nemo fugiat perferendis iusto voluptatibus nobis atque rerum! Sunt ea aut similique tempora iusto esse, harum sint quae. Rem odio distinctio repellendus deserunt, unde ipsum. Natus delectus aspernatur odio nam vel!</p>

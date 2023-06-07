@@ -8,16 +8,8 @@
     <div class="container">
         <div class="rows_wrapper">
             <div class="cols-1">
-                <h3 class="m-0 mb-2">Event Detail</h3>
-                <ul role="list">
-                    <li>Event Name:<span>2023 World Masters Seminar</span></li>
-                    <li>Author Name:<span>Jhon Wick</span></li>
-                    <li>Date:<span>March 8 & 11, 2023.</span></li>
-                    <li>Location: <span>Kathmandu</span></li>
-                    <li>Time: <span>2:00 PM</span></li>
-                </ul>
                 <div class="event_text mb-4">
-                    <h3>ITF HQ Newsletter</h3>
+                    <h3 class="m-0 mb-2">ITF HQ Newsletter</h3>
                     <h5>March 23, 2023 </h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam omnis quibusdam ipsum, ad, harum unde in, inventore itaque magnam nemo fugiat perferendis iusto voluptatibus nobis atque rerum! Sunt ea aut similique tempora iusto esse, harum sint quae. Rem odio distinctio repellendus deserunt, unde ipsum. Natus delectus aspernatur odio nam vel!</p>
@@ -34,6 +26,14 @@
             </div>
 
             <div class="cols-2">
+                <h5 class="secondary_heading m-0 mb-2">Event Detail</h5>
+                <ul role="list">
+                    <li>Event Name:<span>2023 World Masters Seminar</span></li>
+                    <li>Author Name:<span>Jhon Wick</span></li>
+                    <li>Date:<span>March 8 & 11, 2023.</span></li>
+                    <li>Location: <span>Kathmandu</span></li>
+                    <li>Time: <span>2:00 PM</span></li>
+                </ul>
                 <a href="apply_form.php">
                     <p class="mb-5 text-center primary_btn">Apply Now</p>
                 </a>

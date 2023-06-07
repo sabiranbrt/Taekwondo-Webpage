@@ -730,7 +730,7 @@ section.about_register {
 
             p {
               font-size: 1.4rem;
-              opacity: 0.5;
+              color: rgba(0, 0, 0, 0.6);
               text-overflow: ellipsis;
               display: -webkit-box;
               -webkit-box-orient: vertical;
@@ -1240,6 +1240,12 @@ section.event_inner {
     .flex_basis {
       flex-basis: 100% !important;
 
+      .event_text {
+        h5 {
+          opacity: 0.8;
+        }
+      }
+
       p {
         font-size: 1.6rem;
 
@@ -1308,6 +1314,16 @@ section.event_inner {
         }
       }
 
+      .event_text {
+        h3 {
+          font-size: 2.25rem;
+          font-weight: 600;
+          color: #C42329;
+        }
+
+        h5 {}
+      }
+
       p {
         font-size: 1.6rem;
 
@@ -1317,22 +1333,9 @@ section.event_inner {
       }
 
 
+
       h3 {
-        margin: 2em 0 0.5em 0;
-        font-size: 2.25rem;
-        font-weight: 600;
-        color: $red-color;
-      }
-
-      ul {
-        li {
-          font-size: 1.6rem;
-
-          span {
-            opacity: 0.5;
-            margin-left: 5px;
-          }
-        }
+        margin-top: 2rem;
       }
 
       .social_sites {
@@ -1371,6 +1374,25 @@ section.event_inner {
     .cols-2 {
       flex-basis: 30%;
 
+      h3 {
+        margin: 2em 0 0.5em 0;
+        font-size: 2.25rem;
+        font-weight: 600;
+        color: $red-color;
+      }
+
+      ul {
+        margin-bottom: 3rem;
+
+        li {
+          font-size: 1.6rem;
+
+          span {
+            color: rgba(0, 0, 0, 0.6);
+            margin-left: 5px;
+          }
+        }
+      }
 
       h2 {
         font-size: 32px;
@@ -1404,7 +1426,7 @@ section.event_inner {
 
             p {
               font-size: 1.4rem;
-              opacity: 0.5;
+              color: rgba(0, 0, 0, 0.6);
               text-overflow: ellipsis;
               display: -webkit-box;
               -webkit-box-orient: vertical;
@@ -1454,7 +1476,7 @@ section.contact_inner {
 
       p {
         font-size: 1.6rem;
-        opacity: 0.5;
+        color: rgba(0, 0, 0, 0.6);
       }
 
       .contact_wrapper {
@@ -1588,7 +1610,7 @@ section.download {
 
         p {
           font-size: 1.3rem;
-          opacity: 0.5;
+          color: rgba(0, 0, 0, 0.6);
         }
       }
 
@@ -1759,7 +1781,7 @@ section.download {
               font-size: 1.3rem;
 
               span {
-                opacity: 0.5;
+                color: rgba(0, 0, 0, 0.6);
               }
 
               svg {
@@ -1841,7 +1863,7 @@ section.download {
       font-weight: 400;
 
       span {
-        opacity: 0.5;
+        color: rgba(0, 0, 0, 0.6);
       }
     }
   }
