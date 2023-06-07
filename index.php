@@ -90,7 +90,7 @@
                         <a href="news_inner.php">
                             <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>March 23, 2023</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -103,7 +103,7 @@
                         <a href="news_inner.php">
                             <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>March 23, 2023</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -116,7 +116,7 @@
                         <a href="news_inner.php">
                             <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>March 23, 2023</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -129,7 +129,7 @@
                         <a href="news_inner.php">
                             <h3>ITF HQ Newsletter </h3>
                         </a>
-                        <h5>March 23, 2023</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="news_inner.php">Read More</a>
@@ -156,7 +156,7 @@
                             <a href="event_inner.php">
                                 <h3>ITF HQ Newsletter </h3>
                             </a>
-                            <h5>March 23, 2023</h5>
+                            <h5>March 23, 2023 | Jhon Wick</h5>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                         </div>
                         <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -169,7 +169,7 @@
                             <a href="event_inner.php">
                                 <h3>ITF HQ Newsletter </h3>
                             </a>
-                            <h5>March 23, 2023</h5>
+                            <h5>March 23, 2023 | Jhon Wick</h5>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                         </div>
                         <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -190,7 +190,7 @@
                             </div>
                             <div class="notice_text">
                                 <h4>ITF HQ Newsletter </h4>
-                                <h5>March 20, 2022</h5>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                             </div>
                             <div class="notice_text">
                                 <h4>ITF HQ Newsletter </h4>
-                                <h5>March 20, 2022</h5>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
@@ -214,7 +214,7 @@
                             </div>
                             <div class="notice_text">
                                 <h4>ITF HQ Newsletter </h4>
-                                <h5>March 20, 2022</h5>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>

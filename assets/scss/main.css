@@ -154,6 +154,7 @@ a:not(.button):focus {
 .event_list .event_wrapper .event_text h5 {
   font-size: 1.3rem;
   font-weight: 500;
+  opacity: 0.8;
 }
 .event_list .event_wrapper .event_text p {
   font-size: 1.6rem;
@@ -717,6 +718,9 @@ section.about_register .about_detail .about_content p {
 .event_notice .event_notice_wrapper .notice .notice_list .notice_wrapper .notice_text h4:hover {
   color: #243783;
 }
+.event_notice .event_notice_wrapper .notice .notice_list .notice_wrapper .notice_text h5 {
+  opacity: 0.8;
+}
 .event_notice .event_notice_wrapper .notice .notice_list .notice_wrapper .notice_text p {
   font-size: 1.4rem;
   opacity: 0.5;
@@ -1227,7 +1231,7 @@ section.event_inner .rows_wrapper .cols-1 h3 {
   color: #C42329;
 }
 section.event_inner .rows_wrapper .cols-1 ul li {
-  font-size: 1.25rem;
+  font-size: 1.6rem;
 }
 section.event_inner .rows_wrapper .cols-1 ul li span {
   opacity: 0.5;
@@ -1463,6 +1467,7 @@ section.download .download_wrapper .download_detail .download_btn a:hover {
 .central_committee .dojang_list h4 {
   font-size: 1.75rem;
   font-weight: 500;
+  margin-bottom: 2rem;
 }
 .central_committee .dojang_list ul {
   display: grid;

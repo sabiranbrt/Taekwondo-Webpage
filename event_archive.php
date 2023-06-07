@@ -16,7 +16,7 @@
                         <a href="event_inner.php">
                             <h3>ITF HQ Newsletter February 2023</h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -29,7 +29,7 @@
                         <a href="event_inner.php">
                             <h3>ITF HQ Newsletter February 2023</h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -42,7 +42,7 @@
                         <a href="event_inner.php">
                             <h3>ITF HQ Newsletter February 2023</h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -55,7 +55,7 @@
                         <a href="event_inner.php">
                             <h3>ITF HQ Newsletter February 2023</h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -68,7 +68,7 @@
                         <a href="event_inner.php">
                             <h3>ITF HQ Newsletter February 2023</h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="event_inner.php">Read More</a>
@@ -81,7 +81,7 @@
                         <a href="event_inner.php">
                             <h3>ITF HQ Newsletter February 2023</h3>
                         </a>
-                        <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                        <h5>March 23, 2023 | Jhon Wick</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, officia aspernatur laborum a libero ad! Dicta magnam tempora officiis iusto!</p>
                     </div>
                     <a class="secondary_btn" href="event_inner.php">Read More</a>
