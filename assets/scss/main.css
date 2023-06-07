@@ -154,7 +154,7 @@ a:not(.button):focus {
 .event_list .event_wrapper .event_text h5 {
   font-size: 1.3rem;
   font-weight: 500;
-  opacity: 0.8;
+  color: rgba(0, 0, 0, 0.6);
 }
 .event_list .event_wrapper .event_text p {
   font-size: 1.6rem;
@@ -719,7 +719,7 @@ section.about_register .about_detail .about_content p {
   color: #243783;
 }
 .event_notice .event_notice_wrapper .notice .notice_list .notice_wrapper .notice_text h5 {
-  opacity: 0.8;
+  color: rgba(0, 0, 0, 0.6);
 }
 .event_notice .event_notice_wrapper .notice .notice_list .notice_wrapper .notice_text p {
   font-size: 1.4rem;
@@ -1018,7 +1018,7 @@ section.about_register .about_detail .about_content p {
 .video .video_container .rows .cols-2 .video_wrapper .video_text p {
   font-size: 1.3rem;
   font-weight: 500;
-  opacity: 0.8;
+  color: rgba(0, 0, 0, 0.6);
 }
 
 .footer {
@@ -1165,7 +1165,7 @@ section.event_inner .rows_wrapper .flex_basis {
   flex-basis: 100% !important;
 }
 section.event_inner .rows_wrapper .flex_basis .event_text h5 {
-  opacity: 0.8;
+  color: rgba(0, 0, 0, 0.6);
 }
 section.event_inner .rows_wrapper .flex_basis p {
   font-size: 1.6rem;
@@ -1226,6 +1226,9 @@ section.event_inner .rows_wrapper .cols-1 .event_text h3 {
   font-weight: 600;
   color: #C42329;
 }
+section.event_inner .rows_wrapper .cols-1 .event_text h5 {
+  color: rgba(0, 0, 0, 0.6);
+}
 section.event_inner .rows_wrapper .cols-1 p {
   font-size: 1.6rem;
 }
@@ -1238,6 +1241,7 @@ section.event_inner .rows_wrapper .cols-1 h3 {
 section.event_inner .rows_wrapper .cols-1 .social_sites {
   display: flex;
   gap: 20px;
+  margin-top: 1rem;
 }
 section.event_inner .rows_wrapper .cols-1 .social_sites a:nth-child(1) svg {
   padding: 10px 5px;
@@ -1303,8 +1307,12 @@ section.event_inner .rows_wrapper .cols-2 .post_wrapper .latest_wrapper .post_te
   transition: all 0.3s ease-in;
   margin-bottom: 0.5rem;
 }
+section.event_inner .rows_wrapper .cols-2 .post_wrapper .latest_wrapper .post_text h5 {
+  color: rgba(0, 0, 0, 0.6);
+}
 section.event_inner .rows_wrapper .cols-2 .post_wrapper .latest_wrapper .post_text p {
   font-size: 1.4rem;
+  margin-top: 1rem;
   color: rgba(0, 0, 0, 0.6);
   text-overflow: ellipsis;
   display: -webkit-box;
