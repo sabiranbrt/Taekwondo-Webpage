@@ -17,8 +17,8 @@
                     <li>Time: <span>2:00 PM</span></li>
                 </ul>
                 <div class="event_text mb-4">
-                    <h3>ITF HQ Newsletter February 2023</h3>
-                    <h5>by Mr Stewart IV | Mar 22, 2023 | News, newsletter</h5>
+                    <h3>ITF HQ Newsletter</h3>
+                    <h5>March 23, 2023 </h5>
                 </div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam omnis quibusdam ipsum, ad, harum unde in, inventore itaque magnam nemo fugiat perferendis iusto voluptatibus nobis atque rerum! Sunt ea aut similique tempora iusto esse, harum sint quae. Rem odio distinctio repellendus deserunt, unde ipsum. Natus delectus aspernatur odio nam vel!</p>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, aliquam. Similique consequatur veniam corporis minus aliquam, recusandae cupiditate hic blanditiis inventore alias ducimus voluptatem beatae ex architecto consectetur assumenda cum fugiat deserunt sunt nesciunt quo saepe excepturi maiores possimus? Quo excepturi ipsa assumenda vitae quasi aperiam eligendi ut quisquam, est laboriosam, consequatur accusamus dolorem tempore ad repudiandae unde officiis fugiat.</p>
@@ -45,7 +45,8 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="post_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
@@ -56,7 +57,8 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="post_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
@@ -67,7 +69,8 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="post_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
@@ -78,7 +81,8 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="post_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
@@ -89,7 +93,8 @@
                                 <img src="assets/image/about.jpg" alt="">
                             </div>
                             <div class="post_text">
-                                <h4>ITF HQ Newsletter February 2023</h4>
+                                <h4>ITF HQ Newsletter </h4>
+                                <h5>March 23, 2023 | Jhon Wick</h5>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, neque et voluptatem in natus mollitia animi dolorum vero minima. Doloremque.</p>
                             </div>
                         </div>
